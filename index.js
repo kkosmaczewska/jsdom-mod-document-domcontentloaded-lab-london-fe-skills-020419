@@ -1,3 +1,3 @@
 /* code goes here */
-var element = document.getElementById("id01");
+var element = document.getElementById("hidden");
 element.innerHTML = "New Heading";
